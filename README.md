@@ -109,7 +109,7 @@ graph deploy --node https://api.studio.thegraph.com/deploy/ akiba
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) — frontend framework
-- [Celo](https://celo.org/) — L1 blockchain
+- [Celo](https://celo.org/) — L2 blockchain
 - [MiniPay](https://www.opera.com/products/minipay) — target wallet
 - [Hardhat](https://hardhat.org/) — smart contract development
 - [OpenZeppelin](https://openzeppelin.com/) — upgradeable contract libraries
